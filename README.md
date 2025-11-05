@@ -1,5 +1,5 @@
 # Hardware
-Some smalltime Hardware experiments, ESP, Raspi Pico, NRF24, ... nothing fancy.
+Some smalltime Hardware experiments, ESP, Raspi Pico, NRF24, ... nothing fancy, just trying to find new distractions, some relaxing projects away from real work.
 
 ## Jammers
 ### Inspiration
